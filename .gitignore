@@ -1,0 +1,5 @@
+.idea
+*.iml
+.gitconfig
+target
+dependency-reduced-pom.xml
